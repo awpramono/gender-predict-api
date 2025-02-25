@@ -1,5 +1,8 @@
 # gender-predict-api
 Penentuan Jenis Kelamin berdasarkan Nama dengan Menggunakan LSTM dengan Penjelasan LIME
+### History
+2025.02.25 - Init Project (12261 Model)
+
 ### Model
 LSTM - N-100, epoch-10
 ### Data Set
